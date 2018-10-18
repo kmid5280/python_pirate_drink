@@ -1,0 +1,1 @@
+An attempt at solving the Pirate Drink challenge. The program asks the user how they take their drink, and outputs ingredients depending on the user's answers.
